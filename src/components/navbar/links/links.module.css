@@ -1,0 +1,13 @@
+.links {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.logout {
+  padding: 10px;
+  background-color: var(--text);
+  color: var(--bg);
+  border: none;
+  border-radius: 3px;
+}
