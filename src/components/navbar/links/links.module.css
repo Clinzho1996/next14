@@ -20,6 +20,7 @@
 @media (max-width: 768px) {
   .menuButton {
     display: block;
+    cursor: pointer;
   }
 
   .links {
